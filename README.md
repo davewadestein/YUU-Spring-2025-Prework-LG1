@@ -16,4 +16,4 @@
 * https://colab.research.google.com/github/Pluralsight-ILT/YUU-Learn-to-Code-Prework-Colab/blob/main/week-1/02-homework/01-homework.ipynb#scrollTo=b22d131f-e827-4e9c-a770-ca4bfd8fe41d
 
 ## Day 1 Recording
-* I haven't seen it come through yet, but I will keep checking...
+* OK, it turns out YearUp policy is NOT to distribute recordings–apparently they believe it encourages people to skip class or tune out during class. I agree that's possible, and I would prefer to share the recordings, but I have been told in no uncertain terms that I may not.
