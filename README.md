@@ -3,6 +3,10 @@
 ## instructor: Dave Wade-Stein
 * dave@developintelligence.com
 
+## You are agreeing to..
+1. if you use AI, USE AI
+2. you don't just run a cell in a notebook–you have an idea of what it will do first, before pressing the run button
+   
 # WELCOME!
 * cameras on as much as possible, please (better for you, better for me)
 
