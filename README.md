@@ -3,6 +3,9 @@
 ## instructor: Dave Wade-Stein
 * dave@developintelligence.com
 
+## Important
+* Hi all, I know that some of you have faced some technical issues with BrightSpace and the Pluralsight platform and I'm sorry to hear about these issues!
+
 ## You are agreeing to..
 1. if you use AI, USE AI
 2. you don't just run a cell in a notebook–you have an idea of what it will do first, before pressing the run button
