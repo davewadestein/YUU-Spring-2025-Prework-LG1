@@ -10,7 +10,7 @@
       * Emilie Jones     emilie-jones@pluralsight.com
 
 ## You are agreeing to..
-1. if you use AI, USE AI
+1. if you use AI, USE AI. Keep going until you understand.
 2. you don't just run a cell in a notebook–you have an idea of what it will do first, before pressing the run button
    
 # WELCOME!
