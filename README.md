@@ -21,3 +21,7 @@
 
 ## Recording Policy
 * OK, it turns out YearUp policy is NOT to distribute recordings–apparently they believe it encourages people to skip class or tune out during class. I agree that's possible, and I would prefer to share the recordings, but I have been told in no uncertain terms that I may not.
+
+## Resources
+* https://pythontutor.com/
+* AI
