@@ -15,7 +15,11 @@
 ## You are agreeing to
 1. if you use AI, USE AI. Keep going until you understand.
 2. you don't just run a cell in a notebook–you have an idea of what it will do first, before pressing the run button
-   
+
+## How to get better at programming
+* when you have working code, try to do it another way
+* when you have working code, add more features (even if customer didn't ask for them)
+  
 ## Materials
 * https://colab.research.google.com/github/Pluralsight-ILT/YUU-Learn-to-Code-Prework-Colab
 
