@@ -19,7 +19,11 @@
 ## How to get better at programming
 * when you have working code, try to do it another way
 * when you have working code, add more features (even if customer didn't ask for them)
-  
+
+# DWS
+* "Efficiency doesn't matter until it matters, and it rarely matters"
+* "Premature optimization is the root of all evil, while 97% of the time, programmers should focus on writing correct code rather than worrying about efficiency, there are still critical 3% cases where optimization is essential."
+
 ## Materials
 * https://colab.research.google.com/github/Pluralsight-ILT/YUU-Learn-to-Code-Prework-Colab
 
