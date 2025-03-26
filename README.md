@@ -16,9 +16,6 @@
 1. if you use AI, USE AI. Keep going until you understand.
 2. you don't just run a cell in a notebook–you have an idea of what it will do first, before pressing the run button
    
-# WELCOME!
-* cameras on as much as possible, please (better for you, better for me)
-
 ## Materials
 * https://colab.research.google.com/github/Pluralsight-ILT/YUU-Learn-to-Code-Prework-Colab
 
