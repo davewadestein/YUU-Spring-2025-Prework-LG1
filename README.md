@@ -22,7 +22,7 @@
 
 # DWS
 * "Efficiency doesn't matter until it matters, and it rarely matters"
-* "Premature optimization is the root of all evil, while 97% of the time, programmers should focus on writing correct code rather than worrying about efficiency, there are still critical 3% cases where optimization is essential."
+* "We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil."
 
 ## Materials
 * https://colab.research.google.com/github/Pluralsight-ILT/YUU-Learn-to-Code-Prework-Colab
