@@ -2,6 +2,7 @@
 
 ## instructor: Dave Wade-Stein
 * dave@developintelligence.com
+* your instructor for the remainder of the program will be Remsey Mailjard (he is awesome!)
 
 ## Pre-Work Evaluation for you to fill out
 * https://www.surveymonkey.com/r/K3XWKXG
