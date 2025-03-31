@@ -20,6 +20,7 @@
 ## How to get better at programming
 * when you have working code, try to do it another way
 * when you have working code, add more features (even if customer didn't ask for them)
+* try to frame everything in terms of your brain and how you do these things, in English
 
 # DWS
 * "Efficiency doesn't matter until it matters, and it rarely matters"
