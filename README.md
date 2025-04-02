@@ -22,6 +22,11 @@
 * when you have working code, add more features (even if customer didn't ask for them)
 * try to frame everything in terms of your brain and how you do these things, in English
 
+## Other thing to know / Words of wisdom
+* the three banes of existence of programmers are:
+  1. uninitialized variables (Java) / incorrectly initialized variables (Python)
+  2. off-by-one errors
+     
 # DWS
 * "Efficiency doesn't matter until it matters, and it rarely matters"
 * "We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil."
